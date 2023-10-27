@@ -16,6 +16,6 @@ Feature: Home Page
    	When user click on create new account button
    	Then user enter information below 
    	|name|email|password|confirmPassword|
-   	|David|david2221@gmail.com|Best123@|Best123@|
+   	|Davids|david2241@gmail.com|Best123@|Best123@|
    	And user click on sign up button
    	Then user should be logged in
